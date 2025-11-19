@@ -7,17 +7,18 @@ ETL Pipeline | Data Cleaning | Feature Engineering | Data Visualization | Explor
 Este proyecto implementa un pipeline completo de ETL (Extract, Transform, Load) y un Análisis Exploratorio de Datos (EDA) utilizando Python.
 El objetivo es demostrar habilidades clave para roles de Data Analyst, Data Analytics, Business Intelligence (BI) y Machine Learning, aplicando:
 
-Data Cleaning
+#Data Cleaning
 
-Data Wrangling
+#Data Wrangling
 
-Feature Engineering
 
-Estándarización y normalización de datos
+#Feature Engineering
 
-Análisis de variables categóricas y numéricas
+#Estándarización y normalización de datos
 
-Visualización de datos orientada a insights de negocio
+#Análisis de variables categóricas y numéricas
+
+#Visualización de datos orientada a insights de negocio
 
 El dataset final queda listo para modelado predictivo (Machine Learning Ready Dataset).
 
